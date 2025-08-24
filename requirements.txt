@@ -10,3 +10,4 @@ transformers
 gradio
 notebook
 ipywidgets
+huggingface_hub
